@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(to bottom, #6deb31, #786486);
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+ul {
+    padding-left: 5rem;
+    line-height: 2.5rem;
+}
+
+a {
+    color: #f27957;
+    font-weight: bold;
+    text-shadow: .1rem .1rem #060606;
+    font-size: large;
+}
+
+a:hover {
+    color: white;
+}
